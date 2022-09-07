@@ -1,0 +1,9 @@
+index-> keywords: miel, miel organica, abejas, organico, eco-friendly
+        descripcion: Beepure es una marca organica de miel y sus deribados de la mejor calidad, su objetivo principal es cuidar el medio ambiente.
+        titulo:"Beepure"
+
+productos-> keywords: miel, miel organica, abejas, organico, eco-friendly
+            titulo:"Beepure-Productos"
+
+contacto-> keywords: miel, miel organica, abejas, organico, eco-friendly, intagram, whatsapp, facebook
+           titulo:"Beepure-Contacto" 
